@@ -56,7 +56,7 @@ header li a {
     position: relative;
     width: 40px;
     height: 40px;
-    background: url(icons/menu.png );
+    background: url(menu.png );
     background-size: 30px;
     background-repeat: no-repeat;
     background-position: center;
@@ -64,7 +64,7 @@ header li a {
 }
 
 .navbar.active {
-    background: url(icons/close.png);
+    background: url(close.png);
     background-size: 25px;
     background-repeat: no-repeat;
     background-position: center;
@@ -76,7 +76,7 @@ header.sticky .navbar {
 
 .home {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(image/image1.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(image1.jpg);
     background-size: cover;
     background-position: center;
     padding: 0 30px;
@@ -277,7 +277,7 @@ header.sticky .navbar {
 .work .container .content .box {
     width: 290px;
     height: 290px;
-    background: url(designs/image1.jpg);
+    background: url(image1.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -287,31 +287,31 @@ header.sticky .navbar {
 }
 
 .work .container .content .box:nth-child(2) {
-    background: url(designs/image2.jpg);
+    background: url(image2.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .work .container .content .box:nth-child(3) {
-    background: url(designs/image3.jpg);
+    background: url(image3.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .work .container .content .box:nth-child(4) {
-    background: url(designs/image4.jpg);
+    background: url(image4.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .work .container .content .box:nth-child(5) {
-    background: url(designs/image5.jpg);
+    background: url(image5.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .work .container .content .box:nth-child(6) {
-    background: url(designs/image6.jpg);
+    background: url(image6.jpg);
     background-size: cover;
     background-position: center;
 }
